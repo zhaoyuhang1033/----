@@ -1,0 +1,13 @@
+{
+  "name": "mq",
+  "version": "1.0.0",
+  "description": "test con",
+  "main": "index.js",
+  "author": "zyh",
+  "license": "MIT",
+  "dependencies": {
+    "amqp": "^0.2.7",
+    "amqp-connection-manager": "^4.1.11",
+    "amqplib": "^0.10.3"
+  }
+}

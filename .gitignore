@@ -1,0 +1,23 @@
+# dependencies
+node_modules
+# vscode
+.vscode/chrome
+# local configs
+config/**/*local.js
+# logs
+/logs
+*.log
+npm-debug.log*
+yarn-error\.log
+# cache files
+.happypack
+# temp
+/files/cache/*
+# build,test
+/dist
+/obj
+/test/reporter/*
+# git
+*.merge
+# dump
+*.dump
